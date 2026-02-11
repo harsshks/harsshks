@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>DSA + CS fundamentals (OS, DBMS, CN) and real-world full-stack projects  <br><br>👯 I’m looking to collaborate on  <br>Open-source projects  <br><br>🤝 I’m looking for help with  <br>Code reviews and architecture feedback on MERN backend design  <br><br>🌱 I’m currently learning  <br>Advanced DSA, system design basics, backend scalability, ML fundamentals  <br><br>💬 Ask me about  <br>MERN stack (React, Node.js, Express, MongoDB), DSA  fundamentals<br><br>📫 How to reach me  <br>harsh.kumar.25102003@gmail.com  <br><br>👨‍💻 All of my projects are available at  <br>https://github.com/harsshks<br><br>
+🔭 I’m currently working on  <br>DSA + CS Concepts (OS, DBMS, CN) and real-world full-stack projects  <br><br>👯 I’m looking to collaborate on  <br>Open-source projects  <br><br>🤝 I’m looking for help with  <br>Code reviews and architecture feedback on MERN backend design  <br><br>🌱 I’m currently learning  <br>Advanced DSA, system design basics, backend scalability, ML fundamentals  <br><br>💬 Ask me about  <br>MERN stack (React, Node.js, Express, MongoDB), DSA  fundamentals<br><br>📫 How to reach me  <br>harsh.kumar.25102003@gmail.com  <br><br>👨‍💻 All of my projects are available at  <br>https://github.com/harsshks<br><br>
 
 
 ## 🌐 Socials:
